@@ -1,0 +1,12 @@
+Once you have made your changes, you can create a pull request by following these steps:
+
+Fork the repository on Github
+Clone the forked repository to your local machine
+Create a new branch for your changes
+Make your changes and commit them to your branch
+Push your branch to your forked repository on Github
+Go to the original repository and create a new pull request
+Choose your branch from the forked repository as the source and the master branch of the original repository as the target
+Write a clear and concise description of your changes and why they are valuable
+Submit the pull request
+After submitting your pull request, the repository owner will review your changes and provide feedback. If your changes are accepted, they will be merged into the master branch of the original repository.
