@@ -13,11 +13,11 @@ Learning how to write an Incident Report, also referred to as a Postmortem. This
 <li>when staff was notified</li>
 <li>actions, events, …</li>
 <li>when service was restored</li></ul>
-Root Cause
-give a detailed explanation of event
-do not sugarcoat
-Resolution and recovery
-give detailed explanation of actions taken (includes times)
-Corrective and Preventative Measures
-itemized list of ways to prevent it from happening again
-what can we do better next time?
+<h3>Root Cause</h3>
+<ul><li>give a detailed explanation of event</li>
+<li>do not sugarcoat</li></ul>
+<h3>Resolution and recovery</h3>
+<ul><li>give detailed explanation of actions taken (includes times)</li></ul>
+<h3>Corrective and Preventative Measures</h3>
+<ul><li>itemized list of ways to prevent it from happening again</li>
+<li>what can we do better next time?</li></ul>
