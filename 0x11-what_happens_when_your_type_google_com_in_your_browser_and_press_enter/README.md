@@ -1,4 +1,4 @@
-<h2>0x11. What happens when you type holbertonschool.com in your browser and press Enter</h2>
+<h>0x11. What happens when you type holbertonschool.com in your browser and press Enter</h>
 
 
 Background Context
