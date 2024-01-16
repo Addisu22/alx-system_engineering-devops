@@ -6,13 +6,13 @@ Learning how to write an Incident Report, also referred to as a Postmortem. This
 <li>list the duration along with start and end times (include timezone)</li>
 <li>state the impact (most user requests resulted in 500 errors, at peak 100%)
 <li>close with root cause</li></ul>
-Timeline
-list the timezone
-covers the outage duration
-when outage began
-when staff was notified
-actions, events, …
-when service was restored
+<h3>Timeline</h3>
+<ul><li> the timezone</li>
+<li>covers the outage duration</li>
+<li>when outage began</li>
+<li>when staff was notified</li>
+<li>actions, events, …</li>
+<li>when service was restored</li></ul>
 Root Cause
 give a detailed explanation of event
 do not sugarcoat
